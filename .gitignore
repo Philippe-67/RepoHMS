@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HMS UI/HMS UI/bin/Debug/net6.0
+/HMS UI/.vs
+/HMS UI/HMS UI/obj
